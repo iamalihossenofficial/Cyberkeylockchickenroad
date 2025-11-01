@@ -1,12 +1,12 @@
 {
   "licenses": [
     {
-      "key": "123456",
-      "device_id": "9e947ac4-0204-448a-ae11-16273c39d0f3",
-      "expiry_date": "2025-12-06",
+      "key": "stbsb",
+      "device_id": "35c37c7d-631e-4335-8e89-ad41e36389fb",
+      "expiry_date": "2026-12-01",
       "active": true,
       "status": "active",
-      "created_date": "2024-01-01",
+      "created_date": "2025-11-01",
       "max_devices": 1
     },
     {
